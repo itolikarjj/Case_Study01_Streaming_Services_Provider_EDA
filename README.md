@@ -1,2 +1,2 @@
-# scaler_project01
-Scaler Neovarsity project 01
+# Business Case-study 01
+Case_Study01_Streaming_Services_Provider_EDA
